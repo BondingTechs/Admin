@@ -1,0 +1,1 @@
+import{d as e,o as a,c as s}from"./@vue.runtime-core-e50a2272.js";import"./@vue.reactivity-da630c06.js";import"./@vue.shared-5670d8a7.js";const o={class:"view-home"},t=e({name:"home"}),r=e({...t,setup:e=>(e,t)=>(a(),s("div",o))});export{r as default};
